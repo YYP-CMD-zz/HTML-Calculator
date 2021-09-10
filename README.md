@@ -20,12 +20,12 @@ U c<n find the math script i used here:https://unpkg.com/mathjs/lib/browser/math
 
 U can chnage the script by changing the link in
 
-```
+```html
 <script src="https://unpkg.com/mathjs/lib/browser/math.js">
 ```
 
 
 as char set i am using UTF-8
-```
+```html
 <meta charset="UTF-8"/>
 ```
