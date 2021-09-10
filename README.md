@@ -16,7 +16,7 @@ If you want to use this code as an base and develop it, feel free to download an
 If you want to contribute to this repository with (for example) a bug fic or even just some design chnages feel free to contact me on Discord: YYP7671.
 
 
-Used License:
+Used License: MIT License
 
 
 U c<n find the math script i used here: https://unpkg.com/mathjs/lib/browser/math.js
